@@ -2,7 +2,7 @@
     position: fixed;
     left: 0;
     width: 100%;
-    height: 40px;
+    bottom: 93%;
     border-bottom: 2px solid gray;
     display: flex;
 }
@@ -15,13 +15,13 @@
     position: fixed;
     left: 0;
     right: 0;
-    top: 50px;
+    top: 7%;
     bottom: 50px;
     display: flex;
 }
 
 .menu-chunk {
-    width: 80px;
+    width: 200px;
     border-right: 2px solid #eeeeee;
     display: inline-block;
     background-color: #eeeeee;
@@ -49,6 +49,6 @@
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 50px;
+    height: 90px;
     background-color: #eeeeee;
 }
