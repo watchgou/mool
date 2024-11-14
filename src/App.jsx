@@ -7,17 +7,17 @@ function App() {
     <div>
       <div className="top-chunk">
         <div>
-          <span></span>
+          <span>1</span>
         </div>
       </div>
       <div className="parent-chunk">
         <div className="menu-chunk">
-          <div></div>
+          <div>1</div>
         </div>
-        <div className="content-chunk"></div>
+        <div className="content-chunk">1</div>
       </div>
       <div className="bottom-chunk">
-        <h2></h2>
+        <h2>1</h2>
       </div>
     </div>
   );
